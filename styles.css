@@ -1,0 +1,27 @@
+
+/*/index.html*/
+
+body {
+    background-color:rgb(46, 37, 61);
+   
+}
+
+#home{
+    background-color:#ede7fd00;
+    color:rgb(106, 28, 209);
+    text-align:center;
+    padding:10px;
+    font-size: 80px;
+}
+#title {
+   
+    text-align:center;
+    padding:100px;
+    font-size: 60px;
+    color:rgb(234, 248, 220);
+
+}
+#more {
+    color:rgb(104, 184, 150);
+    text-align:center;
+}
